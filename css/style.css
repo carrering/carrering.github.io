@@ -1,0 +1,51 @@
+body{
+
+    background-color: #010101;
+    color:#FAFAFA;
+
+}
+
+.overall_text{
+    font-family:sans-serif;
+    color: black;
+}
+
+#lefty{
+    float:left;
+    margin-top:0;
+    padding:10px;
+    width:200px;
+    height:300px;
+    background-color: yellowgreen;
+
+}
+
+#righty{
+    float:left;
+    margin-top:0;
+    padding:10px;
+    width:600px;
+    height:300px;
+    background-color: green;
+ 
+}
+
+
+.bold {
+    font-weight:bold;
+}
+
+#jimage{
+    width:200px;
+    height:auto;
+}
+
+p{
+   
+}
+
+#header{
+    margin-left: 15px;
+    font-family: sans-serif;
+    color: whitesmoke;
+}
